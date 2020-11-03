@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="4eb7bc3d-d428-4805-8135-4472b96fad94" />
+      <option name="name" value="4eb7bc3d-d428-4805-8135-4472b96fad94" />
+      <option name="url" value="https://maven.aliyun.com/repository/central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="606b23c4-1db6-42af-bb43-d1dfb598d197" />
+      <option name="name" value="606b23c4-1db6-42af-bb43-d1dfb598d197" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="73efddb5-f9ba-4cac-9c94-290812c2300a" />
+      <option name="name" value="73efddb5-f9ba-4cac-9c94-290812c2300a" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="1785d662-9faf-4bd8-8e3c-25ca12e9bca8" />
+      <option name="name" value="1785d662-9faf-4bd8-8e3c-25ca12e9bca8" />
+      <option name="url" value="https://maven.aliyun.com/repository/google" />
+    </remote-repository>
+  </component>
+</project>
